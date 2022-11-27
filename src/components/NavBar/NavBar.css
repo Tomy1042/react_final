@@ -1,0 +1,10 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+#navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logout:focus{
+    background-color: rgb(219, 219, 219);
+}

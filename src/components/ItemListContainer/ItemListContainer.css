@@ -1,0 +1,15 @@
+li{
+    list-style: none
+}
+
+.detalle{
+    font-size: 18px;
+}
+
+.card-header{
+    background-color: #282c34;
+}
+.card2, .card-header2{
+    background-color: transparent !important;
+    border: none !important;
+}
