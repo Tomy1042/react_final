@@ -11,9 +11,6 @@ Este proyecto trata de un e-commerce de un local de tecnología, desde celulares
 - En el carrito de compras se pueden modificar las cantidades e incluso, eliminar elementos.
 - Cliqueando en "Finalizar Compra" en el carrito de compras, ya uno puede completar el formulario de checkout y efectuar finalmente la compra.
 
-## Acceder y probar el proyecto online
-Para acceder al proyecto y probarlo de manera online, acceder al siguiente enlace:
-https://macalui00.github.io/ml-tecnologia/ 
 
 ## Firebase - Autenticación y Almacenamiento
 Tanto para el registro, inicio y cierre de sesión como para el almacenamiento de información (Listado de Productos, Ordenes de Compra) se utilizaron los servicios de autenticación y almacenamiento de Firebase.
