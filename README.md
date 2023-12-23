@@ -1,4 +1,4 @@
-# Proyecto Final - CoderHouse - React Js: ML-Tecnologia
+
 
 Este proyecto trata de un e-commerce de un local de tecnología, desde celulares hasta impresoras. Donde se puede:
 - Ver el listado completo de productos desde la pantalla principal.
